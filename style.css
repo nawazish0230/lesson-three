@@ -26,6 +26,7 @@ p {
   font-size: 16px;
   background-color: var(--secondary-color);
   margin-right: 2rem;
+  text-decoration: none;
 }
 .btn-secondary {
   width: 31%;
@@ -36,6 +37,7 @@ p {
   font-size: 16px;
   color: var(--secondary-color);
   border: 1px solid var(--secondary-color);
+  text-decoration: none;
 }
 nav {
   background-color: var(--primary-color);
@@ -64,6 +66,7 @@ nav {
 }
 .list-item a {
   color: #fff;
+  text-decoration: none;
 }
 
 /* hero container */
