@@ -54,12 +54,12 @@ nav {
 .nav-brand {
   line-height: 30px;
 }
+.nav-brand a {
+  text-decoration: none;
+}
 .brand-name {
   font-weight: bold;
   color: var(--grey-color);
-}
-.brand-name a {
-  text-decoration: none;
 }
 .nav-list {
   list-style: none;
